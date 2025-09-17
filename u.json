@@ -175,26 +175,13 @@
         "app_password": "iuxg clmh eiet gvkh"
     },
     {
-        "alias": "Gmail-26",
-        "smtp_server": "smtp.gmail.com",
-        "smtp_port": 465,
-        "sender_email": "irfafitrio@gmail.com",
-        "app_password": "khtm tnxz nbey ahue"
-    },
-    {
         "alias": "Gmail-27",
         "smtp_server": "smtp.gmail.com",
         "smtp_port": 465,
         "sender_email": "sigmamewing1232@gmail.com",
         "app_password": "trzs dett smbl iykw"
     },
-    {
-        "alias": "Gmail-28",
-        "smtp_server": "smtp.gmail.com",
-        "smtp_port": 465,
-        "sender_email": "joyditiano9@gmail.com",
-        "app_password": "rnfv nfqa ggcf lyqn"
-    },
+    
     {
         "alias": "Gmail-29",
         "smtp_server": "smtp.gmail.com",
